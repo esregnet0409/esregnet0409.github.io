@@ -11,7 +11,7 @@ exclude_dir_match_with = [
 #        "../README.md",
         "../index.md",
         "../google62fdc652437cf301.html",
-        "../naverd4f8a457876d1cbdba15ad126ccbf06a.html",
+        "../naveraa50c2b034ce4edb78887a9ab6e275e6.html",
         "../404.html"
         ]
 
