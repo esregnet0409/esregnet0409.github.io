@@ -3,4 +3,6 @@ https://boyinblue.github.io/001_upbit/_README.html
 https://boyinblue.github.io/001_upbit/README.html
 https://boyinblue.github.io/002_mysql/001-mysql-basic-query.html
 https://boyinblue.github.io/002_mysql/002-mysql-column-list-query.html
+https://boyinblue.github.io/002_mysql/index.html
 https://boyinblue.github.io/002_mysql/_README.html
+https://boyinblue.github.io/002_mysql/README.html
