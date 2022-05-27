@@ -12,6 +12,12 @@ _category_frankler.md
 ---
 
 
+---
+title: Need To Update
+description: Need To Update
+---
+
+
 ['Study/IT 분야 연구' 카테고리의 글 목록](https://frankler.tistory.com/category/Study/IT%20%EB%B6%84%EC%95%BC%20%EC%97%B0%EA%B5%AC)
 
 
