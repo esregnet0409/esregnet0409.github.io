@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os
 
 # 체커가 돌지 않도록 제외할 경로 설정
@@ -191,15 +193,20 @@ def iterate_directory(dir):
     print("iterate_directory :", dir)
     files = os.listdir(dir)
     files.sort()
+
     for file in files:
         path = "{}/{}".format(dir, file)
 #        print( "file : {}".format(path) )
-        if file == "_README.md":
+        if file == "check_md_files.py":
+            cwd = os.getcwd()
+            os.chdir(dir)
+            exec(open("check_md_files.py").read())
+            os.chdir(cwd)
+        elif file == "_README.md":
             print("  Make README.md")
             make_md_file(dir)
         elif is_exclude_path(path):
             print("  Excluding :", path)
-            continue
         elif file.endswith(".md"):
 #            print("  Check md file")
             yaml = get_yaml_header(path)
