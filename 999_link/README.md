@@ -119,5 +119,8 @@ _category_frankler.md
 ['부동산정보/부동산 일반' 카테고리의 글 목록](https://frankler.tistory.com/category/%EB%B6%80%EB%8F%99%EC%82%B0%EC%A0%95%EB%B3%B4/%EB%B6%80%EB%8F%99%EC%82%B0%20%EC%9D%BC%EB%B0%98)
 
 
+['Study/영어 공부' 카테고리의 글 목록](https://frankler.tistory.com/category/Study/%EC%98%81%EC%96%B4%20%EA%B3%B5%EB%B6%80)
+
+
 
 
