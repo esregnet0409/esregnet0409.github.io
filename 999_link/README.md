@@ -122,5 +122,8 @@ _category_frankler.md
 ['Study/영어 공부' 카테고리의 글 목록](https://frankler.tistory.com/category/Study/%EC%98%81%EC%96%B4%20%EA%B3%B5%EB%B6%80)
 
 
+['일상정보/일기' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%EC%9D%BC%EA%B8%B0)
+
+
 
 
