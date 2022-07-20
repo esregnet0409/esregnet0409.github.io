@@ -98,7 +98,7 @@ _category_frankler.md
 ['부동산정보/경기도' 카테고리의 글 목록](https://frankler.tistory.com/category/%EB%B6%80%EB%8F%99%EC%82%B0%EC%A0%95%EB%B3%B4/%EA%B2%BD%EA%B8%B0%EB%8F%84)
 
 
-['일상정보/패션정보' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%ED%8C%A8%EC%85%98%EC%A0%95%EB%B3%B4)
+[](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%ED%8C%A8%EC%85%98%EC%A0%95%EB%B3%B4)
 
 
 ['일상정보' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4)
