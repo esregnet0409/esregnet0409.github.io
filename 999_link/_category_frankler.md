@@ -4,7 +4,7 @@
 ['일상정보/아방이와 벤도리' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%EC%95%84%EB%B0%A9%EC%9D%B4%EC%99%80%20%EB%B2%A4%EB%8F%84%EB%A6%AC)
 
 
-['Study' 카테고리의 글 목록](https://frankler.tistory.com/category/Study)
+[](https://frankler.tistory.com/category/Study)
 
 
 ['부수입' 카테고리의 글 목록](https://frankler.tistory.com/category/%EB%B6%80%EC%88%98%EC%9E%85)
