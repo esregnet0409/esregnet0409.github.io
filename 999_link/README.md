@@ -55,7 +55,7 @@ _category_frankler.md
 - ['부동산정보/안양,의왕,광명' 카테고리의 글 목록](https://frankler.tistory.com/category/%EB%B6%80%EB%8F%99%EC%82%B0%EC%A0%95%EB%B3%B4/%EC%95%88%EC%96%91%2C%EC%9D%98%EC%99%95%2C%EA%B4%91%EB%AA%85)
 - ['일상정보' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4)
 - ['일상정보' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4)
-- [](https://frankler.tistory.com/category/Study/Ubuntu%20%EA%B3%B5%EB%B6%80)
+- ['Study/Ubuntu 공부' 카테고리의 글 목록](https://frankler.tistory.com/category/Study/Ubuntu%20%EA%B3%B5%EB%B6%80)
 - ['Study/Ubuntu 공부' 카테고리의 글 목록](https://frankler.tistory.com/category/Study/Ubuntu%20%EA%B3%B5%EB%B6%80)
 - ['부동산정보/경기도' 카테고리의 글 목록](https://frankler.tistory.com/category/%EB%B6%80%EB%8F%99%EC%82%B0%EC%A0%95%EB%B3%B4/%EA%B2%BD%EA%B8%B0%EB%8F%84)
 - ['부동산정보/경기도' 카테고리의 글 목록](https://frankler.tistory.com/category/%EB%B6%80%EB%8F%99%EC%82%B0%EC%A0%95%EB%B3%B4/%EA%B2%BD%EA%B8%B0%EB%8F%84)
