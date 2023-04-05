@@ -53,7 +53,7 @@ _category_frankler.md
 - ['일상정보' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4)
 - ['Study/Ubuntu 공부' 카테고리의 글 목록](https://frankler.tistory.com/category/Study/Ubuntu%20%EA%B3%B5%EB%B6%80)
 - ['부동산정보/경기도' 카테고리의 글 목록](https://frankler.tistory.com/category/%EB%B6%80%EB%8F%99%EC%82%B0%EC%A0%95%EB%B3%B4/%EA%B2%BD%EA%B8%B0%EB%8F%84)
-- [](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%EC%BD%94%EC%8A%A4%ED%8A%B8%EC%BD%94)
+- ['일상정보/코스트코' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%EC%BD%94%EC%8A%A4%ED%8A%B8%EC%BD%94)
 - ['부수입/각종 이벤트 정보' 카테고리의 글 목록](https://frankler.tistory.com/category/%EB%B6%80%EC%88%98%EC%9E%85/%EA%B0%81%EC%A2%85%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%A0%95%EB%B3%B4)
 - ['Study/IT 분야 연구' 카테고리의 글 목록](https://frankler.tistory.com/category/Study/IT%20%EB%B6%84%EC%95%BC%20%EC%97%B0%EA%B5%AC)
 - ['부수입' 카테고리의 글 목록](https://frankler.tistory.com/category/%EB%B6%80%EC%88%98%EC%9E%85)
