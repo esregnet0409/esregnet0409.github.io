@@ -92,3 +92,12 @@ _category_frankler.md
 - ['일상정보/아방이와 벤도리' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%EC%95%84%EB%B0%A9%EC%9D%B4%EC%99%80%20%EB%B2%A4%EB%8F%84%EB%A6%AC)
 - ['일상정보/아방이와 벤도리' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%EC%95%84%EB%B0%A9%EC%9D%B4%EC%99%80%20%EB%B2%A4%EB%8F%84%EB%A6%AC)
 - ['일상정보/여행' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%EC%97%AC%ED%96%89)
+- ['일상정보/여행' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%EC%97%AC%ED%96%89)
+- ['일상정보/생활정보' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%EC%83%9D%ED%99%9C%EC%A0%95%EB%B3%B4)
+- ['일상정보/생활정보' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%EC%83%9D%ED%99%9C%EC%A0%95%EB%B3%B4)
+- ['일상정보/맛집' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%EB%A7%9B%EC%A7%91)
+- ['일상정보/맛집' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%EB%A7%9B%EC%A7%91)
+- ['일상정보/일기' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%EC%9D%BC%EA%B8%B0)
+- ['일상정보/일기' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%EC%9D%BC%EA%B8%B0)
+
+
