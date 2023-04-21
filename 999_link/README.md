@@ -73,5 +73,6 @@ _category_frankler.md
 - ['일상정보/생활정보' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%EC%83%9D%ED%99%9C%EC%A0%95%EB%B3%B4)
 - ['일상정보/맛집' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%EB%A7%9B%EC%A7%91)
 - ['일상정보/일기' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%EC%9D%BC%EA%B8%B0)
+- ['일상정보/군마트 제품 리뷰' 카테고리의 글 목록](https://frankler.tistory.com/category/%EC%9D%BC%EC%83%81%EC%A0%95%EB%B3%B4/%EA%B5%B0%EB%A7%88%ED%8A%B8%20%EC%A0%9C%ED%92%88%20%EB%A6%AC%EB%B7%B0)
 
 
